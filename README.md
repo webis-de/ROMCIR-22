@@ -9,7 +9,6 @@ This repository contains the data and code for reproducing results of the paper:
         series =                {CEUR Workshop Proceedings},
         site =                  {Stavanger, Norway},
         title =                 {{Using Keyqueries to Reduce Misinformation in Health-Related Search Results}},
-        todo =                  {annote, address, doi, slides, volume, url, editor},
         year =                  2022
     }
 
